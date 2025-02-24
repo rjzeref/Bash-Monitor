@@ -99,7 +99,7 @@ The `organizer.sh` script is based on a **published research paper**: 🔬 DOI: 
 
 1️⃣ Clone the repository:
    ```bash
-   git clone [repository URL]
+   git clone [https://github.com/rjzeref/Bash-Monitor]
    ```
 2️⃣ Navigate to the project directory:
    ```bash
