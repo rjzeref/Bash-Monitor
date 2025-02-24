@@ -1,4 +1,4 @@
-# 🚀 My Bash Project 🖥️
+# 🚀 Bash Utility 🖥️
 
 This project is a **Bash application** that provides various **system monitoring and organizing functionalities**. It includes scripts for organizing files, monitoring system resources, and tracking user activity. 🛠️
 
