@@ -1,0 +1,19 @@
+System Report - Mon Feb 24 10:27:37 IST 2025
+----------------------------------------
+CPU Usage:
+8.47% user, 11.86% sys, 79.66% idle
+
+Memory Usage:
+Used: 12.28 GB
+Free: .21 GB
+
+Disk Usage:
+/dev/disk3s1s1   460Gi    10Gi   359Gi     3%    412k  3.8G    0%   /
+/dev/disk3s6     460Gi   1.0Gi   359Gi     1%       1  3.8G    0%   /System/Volumes/VM
+/dev/disk3s2     460Gi   6.4Gi   359Gi     2%    1.3k  3.8G    0%   /System/Volumes/Preboot
+/dev/disk3s4     460Gi   1.6Mi   359Gi     1%      60  3.8G    0%   /System/Volumes/Update
+/dev/disk1s2     500Mi   6.0Mi   477Mi     2%       1  4.9M    0%   /System/Volumes/xarts
+/dev/disk1s1     500Mi   5.4Mi   477Mi     2%      33  4.9M    0%   /System/Volumes/iSCPreboot
+/dev/disk1s3     500Mi   7.3Mi   477Mi     2%      95  4.9M    0%   /System/Volumes/Hardware
+/dev/disk3s5     460Gi    83Gi   359Gi    19%    1.1M  3.8G    0%   /System/Volumes/Data
+
